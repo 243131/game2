@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game2", "game2\game2.csproj", "{ECF13592-4032-4F63-9DF0-274AD0E738F9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{93834FFD-5E2B-4D70-B457-E7E06081619B}"
+	ProjectSection(SolutionItems) = preProject
+		game2\bin\Debug\ukenglish.txt = game2\bin\Debug\ukenglish.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF13592-4032-4F63-9DF0-274AD0E738F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF13592-4032-4F63-9DF0-274AD0E738F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF13592-4032-4F63-9DF0-274AD0E738F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF13592-4032-4F63-9DF0-274AD0E738F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90C57538-D2CA-4640-9EB5-8E2830057E15}
+	EndGlobalSection
+EndGlobal
